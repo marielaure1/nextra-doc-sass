@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-sass",
+  "name": "nextra-docs-sass-api",
   "version": "0.0.1",
-  "description": "Nextra docs sass",
+  "description": "Nextra docs sass for api",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

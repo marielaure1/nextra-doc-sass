@@ -1,3 +1,41 @@
 {
-  "index": "Aperçu"
+  "index": {
+    "title": "Aperçu",
+    "theme": {
+      "layout": "full",
+      "typesetting": "article"
+    }
+  },
+  "api": {
+    "title": "Api",
+    "type": "menu",
+    "items": {
+      "doc-booker": {
+        "title": "Documentation Booker",
+        "type": "page"
+      },
+      "doc-client": {
+        "title": "Documentation Client",
+        "type": "page"
+      },
+      "doc-openapi-booker": {
+        "title": "Documentation OpenApi Booker",
+        "href": "https://booker-api.brainst.fr/api",
+        "newWindow": true
+      },
+      "doc-openapi-client": {
+        "title": "Documentation OpenApi Client",
+        "href": "href",
+        "newWindow": true
+      }
+    }
+  },
+  "production": {
+    "title": "Production",
+    "type": "page"
+  },
+  "interface": {
+    "title": "Interface",
+    "type": "page"
+  }
 }
